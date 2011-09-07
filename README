@@ -1,0 +1,3 @@
+Simple contact form for the Django web framework.
+
+Requires a variable named CONTACT_EMAIL that represents the address contact messages should be sent to in the settings.py file.
